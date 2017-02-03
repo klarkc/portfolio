@@ -88,8 +88,23 @@
         {
           "title": "polymer-loopbackstarter-kit",
           "link": "https://github.com/klarkc/polymer-loopback-starter-kit",
+          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/cdf1e733-55d3-4044-6711-664f8b87746b.png",
           "description": "A example of loopback backend API integrated with frontend web-components technology to build a isomorphic fullstack application"
-        }
+        },
+        {
+          "title": "Primeira Igreja Batista Bíblica",
+          "link": "http://www.pibbvc.com.br/",
+          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/0eb88752-d858-4e9d-6260-acebb31ad7f2.png",
+          "description": "My current job location, this website uses Joomla (PHP CMS), Bootstrap, Google API's, JQuery and MySQL"
+        },
+        {
+          "title": "Gerenciador de Mídias",
+          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/3a422a3c-85ff-493f-6efa-b4318196cdc5.png",
+          "description": "This manager built with CakePHP/MySQL and Jquery/Datatables on frontend, help us manage all client orders.",
+          "gallery": [
+            "http://www.awesomescreenshot.com/upload//204297/4c68ca2e-5bfe-4d7b-44e9-0371ed9fd9a6.png"
+          ]
+        },
       ]
     }
   ]
