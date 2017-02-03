@@ -1,5 +1,5 @@
 {
-  "displayOrder": ["shortBio","projects", "work", "education", "awards", "volunteer", "social"],
+  "displayOrder": ["shortBio","projects", "social"],
   "personal": {
     "name": "Walker Gusmão Leite",
     "title": "FrontEnd Developer",
