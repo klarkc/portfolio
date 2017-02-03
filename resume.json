@@ -29,6 +29,29 @@
   },
   "projectSections": [
     {
+      "title": "FrontEnd",
+      "projects": [
+        {
+          "title": "Streaming-list",
+          "link": "https://github.com/klarkc/streaming-list",
+          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/190eae08-57af-47fb-5d1c-481d06273ce8.png",
+          "description": "A really nice web-component built with Polymer library to search, filter and fetch streamers from Twitch.tv, Youtube and Livecoding services."
+        },
+        {
+          "title": "boxes-distributor",
+          "link": "https://github.com/klarkc/boxes-distributor",
+          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/37df40b8-5cd0-49b4-45e1-bcc69d700006.png",
+          "description": "This web-component has one job, place boxes in a truck in the most efficient way possible."
+        },
+        {
+          "title": "emulator-gba",
+          "link": "https://github.com/klarkc/emulator-gba",
+          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/6f6bb946-f98b-4f51-5ecb-3d5f2a22b182.png",
+          "description": "An GameBoy Advanced Emulator web-component (I want to have more free time to improve this :D)"
+        }
+      ]
+    }
+    {
       "title": "Fullstack",
       "projects" :[
         {
@@ -55,6 +78,17 @@
             "http://www.awesomescreenshot.com/upload//204297/2fa8f44b-2029-4605-5ad4-d9f62c933ee2.png",
             "http://www.awesomescreenshot.com/upload//204297/1d115864-c616-4f61-462b-81857dfc81d6.png"
           ]
+        },
+        {
+          "title": "Guild Wars 2 Brasil",
+          "link": "http://www.guildwars2brasil.com.br/",
+          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/d421eb98-5100-4c84-7456-d1887e2b6e47.png",
+          "description": "It's the unofficial community forum of the game Guild Wars 2 in Brazil. The community exists since 2011 and we had three websites since that. This last one focus on the community itself, and has only the forum and the Facebook fanpage. The forum is built in top of my personal fork named Nodeclube. In the fork I implemented new features like, a new template, signs support, Youtube thumbnails, a twitch.tv streaming module and portuguese translation. The forum uses NodeJS, Express, Jade and Less(for templating) and MongoDB. I implemented continuous integration through the RedHat OpenShift cloud servers."
+        },
+        {
+          "title": "polymer-loopbackstarter-kit",
+          "link": "https://github.com/klarkc/polymer-loopback-starter-kit",
+          "description": "A example of loopback backend API integrated with frontend web-components technology to build a isomorphic fullstack application"
         }
       ]
     }
