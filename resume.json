@@ -32,6 +32,12 @@
       "title": "FrontEnd",
       "projects": [
         {
+          "title": "OpenHymns",
+          "link": "https://github.com/klarkc/streaming-list",
+          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/234f4f5f-6ca4-4c91-40d1-4f6d69dbe1dd.png",
+          "description": "In progress web-app to store and catalog lyrics for worship groups."
+        },
+        {
           "title": "Streaming-list",
           "link": "https://github.com/klarkc/streaming-list",
           "thumbnail": "http://www.awesomescreenshot.com/upload//204297/190eae08-57af-47fb-5d1c-481d06273ce8.png",
@@ -78,12 +84,6 @@
             "http://www.awesomescreenshot.com/upload//204297/2fa8f44b-2029-4605-5ad4-d9f62c933ee2.png",
             "http://www.awesomescreenshot.com/upload//204297/1d115864-c616-4f61-462b-81857dfc81d6.png"
           ]
-        },
-        {
-          "title": "Guild Wars 2 Brasil",
-          "link": "http://www.guildwars2brasil.com.br/",
-          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/d421eb98-5100-4c84-7456-d1887e2b6e47.png",
-          "description": "It's the unofficial community forum of the game Guild Wars 2 in Brazil. The community exists since 2011 and we had three websites since that. This last one focus on the community itself, and has only the forum and the Facebook fanpage. The forum is built in top of my personal fork named Nodeclube. In the fork I implemented new features like, a new template, signs support, Youtube thumbnails, a twitch.tv streaming module and portuguese translation. The forum uses NodeJS, Express, Jade and Less(for templating) and MongoDB. I implemented continuous integration through the RedHat OpenShift cloud servers."
         },
         {
           "title": "polymer-loopbackstarter-kit",
