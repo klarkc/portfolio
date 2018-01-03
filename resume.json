@@ -56,12 +56,6 @@
           ]
         },
         {
-          "title": "polymer-loopbackstarter-kit",
-          "link": "https://github.com/klarkc/polymer-loopback-starter-kit",
-          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/cdf1e733-55d3-4044-6711-664f8b87746b.png",
-          "description": "A example of loopback backend API integrated with frontend web-components technology to build a isomorphic fullstack application"
-        },
-        {
           "title": "Primeira Igreja Batista Bíblica",
           "link": "http://www.pibbvc.com.br/",
           "thumbnail": "http://www.awesomescreenshot.com/upload//204297/0eb88752-d858-4e9d-6260-acebb31ad7f2.png",
@@ -149,6 +143,12 @@
           "link": "https://github.com/klarkc/emulator-gba",
           "thumbnail": "http://www.awesomescreenshot.com/upload//204297/6f6bb946-f98b-4f51-5ecb-3d5f2a22b182.png",
           "description": "An GameBoy Advanced Emulator web-component (I want to have more free time to improve this :D)"
+        },
+        {
+          "title": "polymer-loopbackstarter-kit",
+          "link": "https://github.com/klarkc/polymer-loopback-starter-kit",
+          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/cdf1e733-55d3-4044-6711-664f8b87746b.png",
+          "description": "A example of loopback backend API integrated with frontend web-components technology to build a isomorphic fullstack application"
         }
       ]
     }
