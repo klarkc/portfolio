@@ -2,34 +2,37 @@
   "displayOrder": ["shortBio","projects", "social"],
   "personal": {
     "name": "Walker Gusmão Leite",
-    "title": "FrontEnd Developer",
+    "title": "Software Engineer",
     "email": "walker@praiseweb.com.br",
-    "phone": "+557799173-2086",
     "website": "https://github.com/klarkc",
-    "shortBio": "Hello! I am programmer since I was a child. Only in the past five years I finally found my way: front-end enginnering. I like to build UX things, but the useful things :p.",
-    "location": "Vitória da Conquista - BA, Brazil",
+    "shortBio": "Hello! I am programmer since I was a child. I am currently in love with Vue (:.",
+    "location": "Florianópolis - SC, Brazil",
     "profiles": [
       {
         "network": "Twitter",
         "url": "http://twitter.com/klarkc"
       },
       {
-        "network": "github",
+        "network": "Github",
         "url": "https://github.com/klarkc/"
       },
       {
-        "network": "linkedin",
+        "network": "Gitlab",
+        "url": "https://gitlab.com/klarkc"
+      },
+      {
+        "network": "Linkedin",
         "url": "https://www.linkedin.com/in/klarkc/"
       },
       {
-        "network": "facebook",
+        "network": "Facebook",
         "url": "https://www.facebook.com/klarkc"
       }
     ]
   },
   "projectSections": [
     {
-      "title": "FrontEnd",
+      "title": "Personal Projects",
       "projects": [
         {
           "title": "OpenHymns",
@@ -58,7 +61,7 @@
       ]
     },
     {
-      "title": "Fullstack",
+      "title": "Jobs",
       "projects" :[
         {
           "title": "Guild Wars 2 Brasil",
