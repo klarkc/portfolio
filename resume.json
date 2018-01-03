@@ -32,35 +32,6 @@
   },
   "projectSections": [
     {
-      "title": "Personal Projects",
-      "projects": [
-        {
-          "title": "OpenHymns",
-          "link": "https://github.com/klarkc/openhymns",
-          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/234f4f5f-6ca4-4c91-40d1-4f6d69dbe1dd.png",
-          "description": "In progress web-app to store and catalog lyrics for worship groups."
-        },
-        {
-          "title": "Streaming-list",
-          "link": "https://github.com/klarkc/streaming-list",
-          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/190eae08-57af-47fb-5d1c-481d06273ce8.png",
-          "description": "A really nice web-component built with Polymer library to search, filter and fetch streamers from Twitch.tv, Youtube and Livecoding services."
-        },
-        {
-          "title": "boxes-distributor",
-          "link": "https://github.com/klarkc/boxes-distributor",
-          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/37df40b8-5cd0-49b4-45e1-bcc69d700006.png",
-          "description": "This web-component has one job, place boxes in a truck in the most efficient way possible."
-        },
-        {
-          "title": "emulator-gba",
-          "link": "https://github.com/klarkc/emulator-gba",
-          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/6f6bb946-f98b-4f51-5ecb-3d5f2a22b182.png",
-          "description": "An GameBoy Advanced Emulator web-component (I want to have more free time to improve this :D)"
-        }
-      ]
-    },
-    {
       "title": "Jobs",
       "projects" :[
         {
@@ -123,6 +94,65 @@
           "gallery": [
             "http://www.awesomescreenshot.com/upload//204297/e6ac1ede-eaba-4c3c-79d0-324e16ee29a0.png"
           ]
+        }
+      ]
+    },
+    {
+      "title": "Personal Projects",
+      "projects": [
+        {
+          "title": "ic-crud-dropdown",
+          "link": "https://github.com/InCuca/ic-crud-dropdown",
+          "thumbnail": "https://vuejs.org/images/logo.png",
+          "description": "A CRUD dropdown with search field."
+        },
+        {
+          "title": "ic-formly",
+          "link": "https://github.com/InCuca/ic-formly",
+          "thumbnail": "https://vuejs.org/images/logo.png",
+          "description": "This component is a form with validation and more using only javascript objects."
+        },
+        {
+          "title": "Vue Loopback Template",
+          "link": "https://github.com/InCuca/vue-loopback",
+          "thumbnail": "https://www.istudiotech.in/wp-content/uploads/2017/09/loopback_logo-1.png",
+          "description": "A Vue project template with Loopback framework optionally with Vuex, Vue-router, and Auth boilerplaite."
+        },
+        {
+          "title": "Vue Standalone Component",
+          "link": "https://github.com/InCuca/vue-standalone-component",
+          "thumbnail": "https://camo.githubusercontent.com/76ad6e4b0b94d33b3430db33d7dd03029fe1fa67/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f74595644444c594d6f70554c694333685f507769773639525a3835674c5370515159683563704f67667659794d717a5a6f395a386370484c695a374a742d4b706e7966615f534e705a5377746f6b515354493731723964395171483462796d787265564f5930756e764b4564306171435935594c437773465f6f5376433773485045484b7353774a4c733446626e656f586436655a5134465f4b763745435f73595463314b65756f535a7262726f683552776c4677377432695a4468516e703472562d53546339706c4836684c67315179506d3065685636433534737a67536f69355055575854694962473633444e58546e337a697a6b4f4c706b2d424f452d455f7568526d4c694e626167675672666a772d7a496e7157676f75617156326651664c6b575073375736534a486e38496153396a4b564a424635434e3672763965514e73377346725f75395a77427655377956414a7132674c7241443033334a64486a782d4c5a6251495f6b434776585639387945503743324f487349782d4954386e39306e62466e41587037746c41632d6d475165556e4549646e6665344764494c454450357459506d752d6e4b654e37744c365f452d6b704e386f49543674646d32794345697668517836436376444a6c704149473965475764757774663263324b66783655306b3462576743696437585f33394b6b67446d4362554d743266644d4d666344564872474f4d57694f567a426246754b784d6249786264374a3074795f5a4b4b613864464966684c59645574524b3462436a66375a4b49714e55793977774b593d77313630302d68373934",
+          "description": "Vuejs template to build components with livecoding, tests, documentation and demos."
+        },
+        {
+          "title": "Vue Firebase Template",
+          "link": "https://github.com/InCuca/vue-firebase",
+          "thumbnail": "https://3.bp.blogspot.com/-aYo4ugzzp38/Vi7I6HxmjmI/AAAAAAAAB1Y/AD3mNx8XTUY/s640/firebase.png",
+          "description": "A vue project template with support for firebase based on official webpack."
+        },
+        {
+          "title": "OpenHymns",
+          "link": "https://github.com/klarkc/openhymns",
+          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/234f4f5f-6ca4-4c91-40d1-4f6d69dbe1dd.png",
+          "description": "In progress web-app to store and catalog lyrics for worship groups."
+        },
+        {
+          "title": "Streaming-list",
+          "link": "https://github.com/klarkc/streaming-list",
+          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/190eae08-57af-47fb-5d1c-481d06273ce8.png",
+          "description": "A really nice web-component built with Polymer library to search, filter and fetch streamers from Twitch.tv, Youtube and Livecoding services."
+        },
+        {
+          "title": "boxes-distributor",
+          "link": "https://github.com/klarkc/boxes-distributor",
+          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/37df40b8-5cd0-49b4-45e1-bcc69d700006.png",
+          "description": "This web-component has one job, place boxes in a truck in the most efficient way possible."
+        },
+        {
+          "title": "emulator-gba",
+          "link": "https://github.com/klarkc/emulator-gba",
+          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/6f6bb946-f98b-4f51-5ecb-3d5f2a22b182.png",
+          "description": "An GameBoy Advanced Emulator web-component (I want to have more free time to improve this :D)"
         }
       ]
     }
