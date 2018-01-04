@@ -31,9 +31,19 @@
       "title": "Jobs (scrolldown for opensource)",
       "projects" :[
         {
+          "title": "Fasterm",
+          "link": "https://directcloud.com.br/portal/",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadessdzdcparppc/Sobre+N%C3%B3s+-+Fasterm.jpg",
+          "description": "Wordpress Website with web-components and graphics library in the simulation page",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzedeadebsrzdcparpbc/Fasterm+Aquecimento+de+%C3%A1gua.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeadeqepzdcparpea/Simulador+de+Economia-+Fasterm.jpg"
+          ]
+        },
+        {
           "title": "DirectCloud Portal",
           "link": "https://directcloud.com.br/portal/",
-          "thumbnail": "https://drive.google.com/file/d/19xRlLEmwh2g6SY4VbzHGXOpT6wYho590/view?usp=drivesdk",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadodqrzdcparpro/Portal+%7C+Direct+Cloud.jpg",
           "description": "Wordpress Blog"
         },
         {
