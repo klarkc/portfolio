@@ -31,6 +31,12 @@
       "title": "Jobs (scrolldown for opensource)",
       "projects" :[
         {
+          "title": "DirectCloud Portal",
+          "link": "https://directcloud.com.br/portal/",
+          "thumbnail": "https://drive.google.com/file/d/19xRlLEmwh2g6SY4VbzHGXOpT6wYho590/view?usp=drivesdk",
+          "description": "Wordpress Blog"
+        },
+        {
           "title": "Guild Wars 2 Brasil",
           "link": "http://www.guildwars2brasil.com.br/",
           "thumbnail": "http://www.awesomescreenshot.com/upload//204297/d421eb98-5100-4c84-7456-d1887e2b6e47.png",
