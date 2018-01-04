@@ -29,7 +29,64 @@
   "projectSections": [
     {
       "title": "Jobs (scrolldown for opensource)",
-      "projects" :[
+      "projects": [
+        {
+          "title": "Máxima Sistemas",
+          "link": "http://www.maximasistemas.com.br/",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadsaqbzdcparsdd/M%C3%A1xima+Sistemas+-+Solu%C3%A7%C3%B5es+m%C3%B3veis+para+atacadistas+distribuidores.jpg",
+          "description": "A institutional website made with wordpress.",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzedeadsbsozdcparsdo/For%C3%A7a+de+Vendas+-+Solu%C3%A7%C3%B5es+de+automa%C3%A7%C3%A3o+e+mobilidade+M%C3%A1xima+Sistemas.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeadsdeczdcparsop/Casos+de+Sucesso+-+M%C3%A1xima+Sistemas.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeadseqbzdcparspe/Blog+da+M%C3%A1xima+Sistemas+-+Dicas+sobre+mobilidade+no+atacado+distribuidor.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeadspcezdcparsps/A+Empresa+-+Conhe%C3%A7a+a+M%C3%A1xima+Sistemas.jpg"
+          ]
+        },
+        {
+          "title": "PlanetDoc",
+          "link": "http://planetdoc.com/",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadqrcczdcparrpc/Home+-+Planetdoc.org.jpg",
+          "description": "A multilingual Wordpress community platform, the users can promove movie festivals in the site.",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzedeadrcsrzdcparrss/About+-+Planetdoc.org.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeadroqrzdcparsba/Minha+conta+-+Planetdoc.org.jpg"
+          ]
+        },
+        {
+          "title": "Planeta na Escola",
+          "link": "http://planetanaescola.com/",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadqboszdcparrap/Planeta+na+Escola+-+Mude+o+Seu+Olhar.jpg",
+          "description": "A Wordpress Video Platform, with private access to movies and documentaries",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzedeadqedozdcparrdp/Planeta+na+Escola+-+Mude+o+Seu+Olhar.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeadqesczdcparrds/Planeta+na+Escola+-+Mude+o+Seu+Olhar.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeadqpbczdcparreo/Survivre+and+Progres+-+Refer%C3%AAncia+-+Planeta+na+Escola.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeadqqoezdcparrpa/Planeta+na+Escola+-+Mude+o+Seu+Olhar.jpg"
+          ]
+        },
+        {
+          "title": "IdeaKids",
+          "link": "http://ideakids.com.br/",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadpeaozdcparqpp/Idea+Kids+-+Fabricando+Sonhos.jpg",
+          "description": "Wordpress Website with Google Maps, customized forms, and a restricted area for resellers",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzedeadppqezdcparqqd/Idea+Kids+-+Fabricando+Sonhos.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeadpqrezdcparqrr/Produtos+-+IdeaKids.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeadprsdzdcparqsr/Blog+-+IdeaKids.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeadpsqczdcparrab/Contato+-+IdeaKids.jpg"
+          ]
+        },
+        {
+          "title": "Nasa Industrial",
+          "link": "http://nasa.ind.br/",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadordazdcparqcp/Nasa+Industrial+%7C+Importa%C3%A7%C3%A3o+e+Exporta%C3%A7%C3%A3o+de+Manufaturados+Ltda..jpg",
+          "description": "Wordpress Website with customized forms and multi-language support",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzedeadpaopzdcparqdq/Nasa+Industrial+%7C+Importa%C3%A7%C3%A3o+e+Exporta%C3%A7%C3%A3o+de+Manufaturados+Ltda..jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeadpceazdcparqea/Seja+um+Representante+%7C+Nasa+Industrial.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeadpdbazdcparqor/Products+%7C+Nasa+Industrial.jpg"
+          ]
+        },
         {
           "title": "Fasterm",
           "link": "https://directcloud.com.br/portal/",
