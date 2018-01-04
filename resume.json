@@ -44,7 +44,11 @@
           "title": "DirectCloud Portal",
           "link": "https://directcloud.com.br/portal/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadodqrzdcparpro/Portal+%7C+Direct+Cloud.jpg",
-          "description": "Wordpress Blog"
+          "description": "Wordpress Blog",
+          "gallery": [
+            "https://preview.ibb.co/huKm9w/Portal_Direct_Cloud.png",
+            "https://www.diigo.com/file/image/bapbeoqpzedeadooeczdcparpse/Os+7+principais+mitos+relacionados+%C3%A0+estrat%C3%A9gia+multicloud.jpg"
+          ]
         },
         {
           "title": "Guild Wars 2 Brasil",
