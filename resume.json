@@ -31,6 +31,28 @@
       "title": "Jobs (scrolldown for opensource)",
       "projects": [
         {
+          "title": "Atla Consultoria - Linhas de Financiamento",
+          "link": "http://atlaconsultoria.com/linhas-de-financiamento/",
+          "thumbnail": "https://s3.amazonaws.com/diigo/10614576_434428842_32645294?AWSAccessKeyId=0R7FMW7AXRVCYMAPTPR2&Expires=1515332876&Signature=oUFLGtEi%2FWiKivFaacaRWVIq47M%3D",
+          "description": "Project Financing Simulation with Vue, PHP and Wordpress",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzedeecrreczdcpeocse/Linhas+de+Financiamento%7CAtla+Consultoria.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeecrrrszdcpeocsp/Linhas+de+Financiamento%7CAtla+Consultoria.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeecrsaczdcpeodae/Linhas+de+Financiamento%7CAtla+Consultoria.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeecrsbrzdcpeodba/Linhas+de+Financiamento%7CAtla+Consultoria.jpg"
+          ]
+        },
+        {
+          "title": "Atla Consultoria - Financie seu Projeto",
+          "link": "http://atlaconsultoria.com/financie-seu-projeto/",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeecrdqozdcpeocpc/Financie+seu+Projeto%7CAtla+Consultoria.jpg",
+          "description": "Project Financing Simulation with Vue, PHP and Wordpress",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzedeecrpsqzdcpeocrb/Financie+seu+Projeto%7CAtla+Consultoria.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeecrqepzdcpeocrp/Financie+seu+Projeto%7CAtla+Consultoria.jpg"
+          ]
+        },
+        {
           "title": "Máxima Sistemas",
           "link": "http://www.maximasistemas.com.br/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadsaqbzdcparsdd/M%C3%A1xima+Sistemas+-+Solu%C3%A7%C3%B5es+m%C3%B3veis+para+atacadistas+distribuidores.jpg",
