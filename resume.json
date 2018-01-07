@@ -130,12 +130,6 @@
           ]
         },
         {
-          "title": "Guild Wars 2 Brasil",
-          "link": "http://www.guildwars2brasil.com.br/",
-          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/d421eb98-5100-4c84-7456-d1887e2b6e47.png",
-          "description": "It's the unofficial community forum of the game Guild Wars 2 in Brazil. The community exists since 2011 and we had three websites since that. This last one focus on the community itself, and has only the forum and the Facebook fanpage. The forum is built in top of my personal fork named Nodeclube. In the fork I implemented new features like, a new template, signs support, Youtube thumbnails, a twitch.tv streaming module and portuguese translation. The forum uses NodeJS, Express, Jade and Less(for templating) and MongoDB. I implemented continuous integration through the RedHat OpenShift cloud servers."
-        },
-        {
           "title": "ASO-Online",
           "link": "http://www.aso-online.com.br/",
           "thumbnail": "http://www.awesomescreenshot.com/upload//204297/10c71de7-e5ee-47ba-49f2-5cba9ce93f5b.png",
@@ -248,6 +242,12 @@
           "link": "https://github.com/klarkc/polymer-loopback-starter-kit",
           "thumbnail": "http://www.awesomescreenshot.com/upload//204297/cdf1e733-55d3-4044-6711-664f8b87746b.png",
           "description": "A example of loopback backend API integrated with frontend web-components technology to build a isomorphic fullstack application"
+        },
+        {
+          "title": "Guild Wars 2 Brasil",
+          "link": "http://www.guildwars2brasil.com.br/",
+          "thumbnail": "http://www.awesomescreenshot.com/upload//204297/d421eb98-5100-4c84-7456-d1887e2b6e47.png",
+          "description": "It's the unofficial community forum of the game Guild Wars 2 in Brazil. The community exists since 2011 and we had three websites since that. This last one focus on the community itself, and has only the forum and the Facebook fanpage. The forum is built in top of my personal fork named Nodeclube. In the fork I implemented new features like, a new template, signs support, Youtube thumbnails, a twitch.tv streaming module and portuguese translation. The forum uses NodeJS, Express, Jade and Less(for templating) and MongoDB. I implemented continuous integration through the RedHat OpenShift cloud servers."
         }
       ]
     }
