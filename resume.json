@@ -184,6 +184,12 @@
       "title": "Personal Projects",
       "projects": [
         {
+          "title": "ic-firebase-uploader",
+          "link": "https://github.com/InCuca/ic-firebase-uploader",
+          "thumbnail": "https://vuejs.org/images/logo.png",
+          "description": "This component is a multi-file uploader for firebase."
+        },
+        {
           "title": "ic-crud-dropdown",
           "link": "https://github.com/InCuca/ic-crud-dropdown",
           "thumbnail": "https://vuejs.org/images/logo.png",
