@@ -30,6 +30,28 @@
     {
       "title": "Jobs (scrolldown for opensource)",
       "projects": [
+	{
+          "title": "Empodere-se",
+          "link": "http://www.empoderese.com/",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzeebcssooezdddbdbpq/Empodere-se.jpg",
+          "description": "Project Financing Simulation with Vue, PHP and Wordpress",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzeebcsracazdddbcsse/Empodere-se.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeebcsrdsqzdddbdard/Empodere-se.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeebcsrpbrzdddbdbab/Empodere-se.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeebcsrqcazdddbdbbo/Empodere-se.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeebcsrqsazdddbdbbr/Empodere-se.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeebcsrrdqzdddbdbcb/Empodere-se.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeebcssaobzdddbdbec/Empodere-se.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeebcssbbpzdddbdbed/Empodere-se.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeebcsscodzdddbdbos/Empodere-se.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeebcssdrozdddbdbpe/Empodere-se.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeebcssooezdddbdbpq/Empodere-se.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeebcsspqqzdddbdbrb/Empodere-se.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeebcssqrczdddbdbrc/Empodere-se.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeebcssseazdddbdcaa/Empodere-se.jpg",
+          ]
+        },
         {
           "title": "Atla Consultoria - Linhas de Financiamento",
           "link": "http://atlaconsultoria.com/linhas-de-financiamento/",
