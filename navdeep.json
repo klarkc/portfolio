@@ -19,11 +19,11 @@
         "profiles": [
             {
                 "network": "Twitter",
-                "url": "http://twitter.com/navdeepsekhon9"
+                "url": "//twitter.com/navdeepsekhon9"
             },
             {
                 "network": "github",
-                "url": "http://decompile.xyz"
+                "url": "//decompile.xyz"
             },
             {
                 "network": "linkedin",
@@ -31,7 +31,7 @@
             },
             {
                 "network": "facebook",
-                "url": "http://facebook.com/navdeepsekhon6"
+                "url": "//facebook.com/navdeepsekhon6"
             }
         ]
     },
