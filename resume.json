@@ -31,6 +31,21 @@
       "title": "Jobs (scrolldown for opensource)",
       "projects": [
         {
+          "title": "Sendist - Logistics central",
+          "link": "https://sendist.com.br/",
+          "thumbnail": "https://i.imgur.com/QLmSBZB.png",
+          "description": "A software based in a project resolution process, it uses Vue/Vuex and Firebase",
+          "gallery": [
+            "https://i.imgur.com/0zIB7I0.png",
+            "https://i.imgur.com/AyKRlhf.png",
+            "https://i.imgur.com/bI3ASSa.png",
+            "https://i.imgur.com/f2fcwCZ.png",
+            "https://i.imgur.com/0MwP7sR.png",
+            "https://i.imgur.com/XDxa5PE.png",
+            "https://i.imgur.com/1N6EVqB.png"
+          ]
+        },
+        {
           "title": "Empodere-se",
           "link": "http://www.empoderese.com/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzeebcssooezdddbdbpq/Empodere-se.jpg",
