@@ -52,6 +52,7 @@ p{
     max-height: 350px;
     margin-left: auto;
     margin-right: auto;
+    cursor: pointer;
 }
 .highlights{
     margin-top:10px;

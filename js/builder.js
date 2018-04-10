@@ -337,6 +337,13 @@ function addListenerForGallery() {
         projectDescDom.innerHTML = projectDesc;
         content.append(repoCopy);
 
+        // open image on click
+        jQuery(content).find('img').off('click');
+        jQuery(content).find('img').on('click', function() {
+            var url = jQuery(this).attr('src');
+            window.open(url, '_blank');
+        });
+
         $("#modal-gallery").modal("show");
     });
 }
