@@ -221,6 +221,12 @@
       "title": "Personal Projects",
       "projects": [
         {
+          "title": "text-mask-collection",
+          "link": "https://github.com/InCuca/text-mask-collection",
+          "thumbnail": "https://vuejs.org/images/logo.png",
+          "description": "Collection of brazillian masks for text-mask and vue"
+        },
+        {
           "title": "ic-firebase-uploader",
           "link": "https://github.com/InCuca/ic-firebase-uploader",
           "thumbnail": "https://vuejs.org/images/logo.png",
