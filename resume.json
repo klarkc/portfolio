@@ -47,7 +47,7 @@
         },
         {
           "title": "Empodere-se",
-          "link": "//www.empoderese.com/",
+          "link": "https://www.empoderese.com/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzeebcssooezdddbdbpq/Empodere-se.jpg",
           "description": "The software based project resolution process, it uses Vue / Vuex and Firebase. The main requirements of this project were to be realtime and synced across different accounts. One of the biggest challenges in this project was to understand the client's methodology and translate this into a good user experience. We overcome the challange by reducing the gap between client and developers, by using a close proximity between PO, client and devs.",
           "gallery": [
@@ -91,7 +91,7 @@
         },
         {
           "title": "Máxima Sistemas",
-          "link": "//www.maximasistemas.com.br/",
+          "link": "http://www.maximasistemas.com.br/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadsaqbzdcparsdd/M%C3%A1xima+Sistemas+-+Solu%C3%A7%C3%B5es+m%C3%B3veis+para+atacadistas+distribuidores.jpg",
           "description": "A institutional website made with wordpress.",
           "gallery": [
@@ -103,7 +103,7 @@
         },
         {
           "title": "PlanetDoc",
-          "link": "//planetdoc.com/",
+          "link": "https://planetdoc.org",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadqrcczdcparrpc/Home+-+Planetdoc.org.jpg",
           "description": "A multilingual Wordpress community platform, the users can promove movie festivals in the site.",
           "gallery": [
@@ -113,7 +113,7 @@
         },
         {
           "title": "Planeta na Escola",
-          "link": "//planetanaescola.com/",
+          "link": "https://planetanaescola.com/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadqboszdcparrap/Planeta+na+Escola+-+Mude+o+Seu+Olhar.jpg",
           "description": "A Wordpress Video Platform, with private access to movies and documentaries",
           "gallery": [
@@ -125,7 +125,7 @@
         },
         {
           "title": "IdeaKids",
-          "link": "//ideakids.com.br/",
+          "link": "http://ideakids.com.br/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadpeaozdcparqpp/Idea+Kids+-+Fabricando+Sonhos.jpg",
           "description": "Wordpress Website with Google Maps, customized forms, and a restricted area for resellers",
           "gallery": [
@@ -137,7 +137,7 @@
         },
         {
           "title": "Nasa Industrial",
-          "link": "//nasa.ind.br/",
+          "link": "http://nasa.ind.br/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadordazdcparqcp/Nasa+Industrial+%7C+Importa%C3%A7%C3%A3o+e+Exporta%C3%A7%C3%A3o+de+Manufaturados+Ltda..jpg",
           "description": "Wordpress Website with customized forms and multi-language support",
           "gallery": [
@@ -148,7 +148,7 @@
         },
         {
           "title": "Fasterm",
-          "link": "https://directcloud.com.br/portal/",
+          "link": "https://www.fasterm.com.br/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadessdzdcparppc/Sobre+N%C3%B3s+-+Fasterm.jpg",
           "description": "Wordpress Website with web-components and graphics library in the simulation page",
           "gallery": [
@@ -168,7 +168,7 @@
         },
         {
           "title": "ASO-Online",
-          "link": "//www.aso-online.com.br/",
+          "link": "http://www.aso-online.com.br/",
           "thumbnail": "//www.awesomescreenshot.com/upload//204297/10c71de7-e5ee-47ba-49f2-5cba9ce93f5b.png",
           "description": [
             "It's a still in development medical manager. It works by connecting people, companies and hospitals to offer medical services.",
@@ -187,7 +187,7 @@
         },
         {
           "title": "Primeira Igreja Batista Bíblica",
-          "link": "//www.pibbvc.com.br/",
+          "link": "http://www.pibbvc.com.br/",
           "thumbnail": "//www.awesomescreenshot.com/upload//204297/0eb88752-d858-4e9d-6260-acebb31ad7f2.png",
           "description": "This website uses Joomla (PHP CMS), Bootstrap, Google API's, JQuery and MySQL"
         },
@@ -294,7 +294,7 @@
         },
         {
           "title": "Guild Wars 2 Brasil",
-          "link": "//www.guildwars2brasil.com.br/",
+          "link": "http://www.guildwars2brasil.com.br/",
           "thumbnail": "//www.awesomescreenshot.com/upload//204297/d421eb98-5100-4c84-7456-d1887e2b6e47.png",
           "description": "It's the unofficial community forum of the game Guild Wars 2 in Brazil. The community exists since 2011 and we had three websites since that. This last one focus on the community itself, and has only the forum and the Facebook fanpage. The forum is built in top of my personal fork named Nodeclube. In the fork I implemented new features like, a new template, signs support, Youtube thumbnails, a twitch.tv streaming module and portuguese translation. The forum uses NodeJS, Express, Jade and Less(for templating) and MongoDB. I implemented continuous integration through the RedHat OpenShift cloud servers."
         }
