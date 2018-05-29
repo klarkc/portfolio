@@ -34,7 +34,7 @@
           "title": "Sendist - Logistics central",
           "link": "https://sendist.com.br/",
           "thumbnail": "https://i.imgur.com/QLmSBZB.png",
-          "description": "B2B Marketplace for logistic providers, importer and exporters. The requirements were to build an easy and accessible marketplace to be used by clients and providers across the country. The main challange was to attend to very restricted restrictions and client requests through the use of the service. To overcome the challange we used a very detailed and scoped software analysis.",
+          "description": "B2B Marketplace for logistic providers, importer and exporters. The requirements were to build an easy and accessible marketplace to be used by clients and providers across the country. The main challenge was to attend to the restrictions and client requests through the use of the service. To overcome the challenge we used a very detailed and scoped software analysis.",
           "gallery": [
             "https://i.imgur.com/0zIB7I0.png",
             "https://i.imgur.com/AyKRlhf.png",
@@ -49,7 +49,7 @@
           "title": "Empodere-se",
           "link": "https://www.empoderese.com/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzeebcssooezdddbdbpq/Empodere-se.jpg",
-          "description": "The software based project resolution process, it uses Vue / Vuex and Firebase. The main requirements of this project were to be realtime and synced across different accounts. One of the biggest challenges in this project was to understand the client's methodology and translate this into a good user experience. We overcome the challange by reducing the gap between client and developers, by using a close proximity between PO, client and devs.",
+          "description": "It's a software based project resolution process, it uses Vue / Vuex and Firebase. The main requirements of this project were to be realtime and synced across different accounts. One of the biggest challenges in this project was to understand the client methodology and translate it into a good user experience. We overcome the challange by reducing the gap between client and developers, using a close communication between PO, client and devs.",
           "gallery": [
             "https://www.diigo.com/file/image/bapbeoqpzeebcsracazdddbcsse/Empodere-se.jpg",
             "https://www.diigo.com/file/image/bapbeoqpzeebcsrdsqzdddbdard/Empodere-se.jpg",
@@ -71,7 +71,7 @@
           "title": "Atla Consultoria - Linhas de Financiamento",
           "link": "http://atlaconsultoria.com/linhas-de-financiamento/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeecrreczdcpeocse/Linhas+de+Financiamento%7CAtla+Consultoria.jpg",
-          "description": "Project Financing Simulation and  with Vue, PHP and Wordpress. The requeriments were to build an appeling and understandable financing simulator, for lead captation. The challanges were to understanding client spreadsheet's translating to plots and numbers in the frontend.",
+          "description": "Project Financing Simulation and  with Vue, PHP and Wordpress. The requeriments were to build an appeling and understandable financing simulator, for lead captation. The challenges were to understand client spreadsheets and transfori it into plots and numbers in the frontend.",
           "gallery": [
             "https://www.diigo.com/file/image/bapbeoqpzedeecrreczdcpeocse/Linhas+de+Financiamento%7CAtla+Consultoria.jpg",
             "https://www.diigo.com/file/image/bapbeoqpzedeecrrrszdcpeocsp/Linhas+de+Financiamento%7CAtla+Consultoria.jpg",
@@ -83,7 +83,7 @@
           "title": "Atla Consultoria - Financie seu Projeto",
           "link": "http://atlaconsultoria.com/financie-seu-projeto/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeecrdqozdcpeocpc/Financie+seu+Projeto%7CAtla+Consultoria.jpg",
-          "description": "Project Financing Simulation and  with Vue, PHP and Wordpress. The requeriments were to build an appeling and understandable financing simulator, for lead captation. The challanges were to understanding client spreadsheet's translating to plots and numbers in the frontend.",
+          "description": "Project Financing Simulation and  with Vue, PHP and Wordpress. The requeriments were to build an appeling and understandable financing simulator, for lead captation. The challenges were to understand client spreadsheets and transfori it into plots and numbers in the frontend.",
           "gallery": [
             "https://www.diigo.com/file/image/bapbeoqpzedeecrpsqzdcpeocrb/Financie+seu+Projeto%7CAtla+Consultoria.jpg",
             "https://www.diigo.com/file/image/bapbeoqpzedeecrqepzdcpeocrp/Financie+seu+Projeto%7CAtla+Consultoria.jpg"
