@@ -31,6 +31,18 @@
       "title": "Jobs (scrolldown for opensource)",
       "projects": [
         {
+          "title": "StudioK2",
+          "link": "https://www.facebook.com/Studio-K2-Personal-Training-705449632883401/",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzepdacsbdqzdobcecdb/Studio+K2.jpg",
+          "description": "Inhouse academy management system, used by academy managers and professors to easily store student presences. Made with Vue and Loopback.",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzepdacsbdqzdobcecdb/Studio+K2.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzepdacscdazdobcecdo/Studio+K2.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzepdacscsozdobcecds/Studio+K2.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzepdacseoqzdobcecec/Studio+K2.jpg"
+          ]
+        },
+        {
           "title": "Sendist - Logistics central",
           "link": "https://sendist.com.br/",
           "thumbnail": "https://i.imgur.com/QLmSBZB.png",
