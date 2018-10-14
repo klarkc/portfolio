@@ -5,7 +5,7 @@
     "title": "Software Engineer",
     "email": "walker@praiseweb.com.br",
     "website": "https://github.com/klarkc",
-    "shortBio": "I am a full stack developer for 9 years, currently producing web apps and progressive web apps in a local company with Vue JS and Loopback / Firebase. I also do websites and small web applets with wordpress in the free time.",
+    "shortBio": "I am a web developer for 9 years, actually producing software in a local company with Javascript. I also do websites and small web applets with wordpress in the free time.",
     "location": "Florianópolis - SC, Brazil",
     "profiles": [
       {
@@ -19,17 +19,25 @@
       {
         "network": "Linkedin",
         "url": "https://www.linkedin.com/in/klarkc/"
-      },
-      {
-        "network": "Facebook",
-        "url": "https://www.facebook.com/klarkc"
       }
     ]
   },
   "projectSections": [
     {
-      "title": "Jobs (scrolldown for opensource)",
+      "title": "Jobs (scroll for opensource S2)",
       "projects": [
+        {
+          "title": "Mosimann-Horn",
+          "link": "http://mh.adv.br",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzeqqeccpsqzdpadaaaa/Home+%7C+Mosimann-Horn.jpg",
+          "description": "Law Firm website. Produced with WordPress.",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzeqqeccpsczdpacsssr/Home+%7C+Mosimann-Horn.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeqqeccpqbzdpacsssp/Destaques+%7C+Mosimann-Horn.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeqqeccpoezdpacssse/Advogados+%7C+Mosimann-Horn.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeqqeccocqzdpacssqr/Home+%7C+Mosimann-Horn.jpg"
+          ]
+        },
         {
           "title": "StudioK2",
           "link": "https://www.facebook.com/Studio-K2-Personal-Training-705449632883401/",
@@ -83,7 +91,7 @@
           "title": "Atla Consultoria - Linhas de Financiamento",
           "link": "http://atlaconsultoria.com/linhas-de-financiamento/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeecrreczdcpeocse/Linhas+de+Financiamento%7CAtla+Consultoria.jpg",
-          "description": "Project Financing Simulation and  with Vue, PHP and Wordpress. The requeriments were to build an appeling and understandable financing simulator, for lead captation. The challenges were to understand client spreadsheets and transfori it into plots and numbers in the frontend.",
+          "description": "Project Financing Simulation and  with Vue, PHP and WordPress. The requeriments were to build an appeling and understandable financing simulator, for lead captation. The challenges were to understand client spreadsheets and transfori it into plots and numbers in the frontend.",
           "gallery": [
             "https://www.diigo.com/file/image/bapbeoqpzedeecrreczdcpeocse/Linhas+de+Financiamento%7CAtla+Consultoria.jpg",
             "https://www.diigo.com/file/image/bapbeoqpzedeecrrrszdcpeocsp/Linhas+de+Financiamento%7CAtla+Consultoria.jpg",
@@ -95,7 +103,7 @@
           "title": "Atla Consultoria - Financie seu Projeto",
           "link": "http://atlaconsultoria.com/financie-seu-projeto/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeecrdqozdcpeocpc/Financie+seu+Projeto%7CAtla+Consultoria.jpg",
-          "description": "Project Financing Simulation and  with Vue, PHP and Wordpress. The requeriments were to build an appeling and understandable financing simulator, for lead captation. The challenges were to understand client spreadsheets and transfori it into plots and numbers in the frontend.",
+          "description": "Project Financing Simulation and  with Vue, PHP and WordPress. The requeriments were to build an appeling and understandable financing simulator, for lead captation. The challenges were to understand client spreadsheets and transfori it into plots and numbers in the frontend.",
           "gallery": [
             "https://www.diigo.com/file/image/bapbeoqpzedeecrpsqzdcpeocrb/Financie+seu+Projeto%7CAtla+Consultoria.jpg",
             "https://www.diigo.com/file/image/bapbeoqpzedeecrqepzdcpeocrp/Financie+seu+Projeto%7CAtla+Consultoria.jpg"
@@ -117,7 +125,7 @@
           "title": "PlanetDoc",
           "link": "https://planetdoc.org",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadqrcczdcparrpc/Home+-+Planetdoc.org.jpg",
-          "description": "A multilingual Wordpress community platform, the users can promove movie festivals in the site.",
+          "description": "A multilingual WordPress community platform, the users can promove movie festivals in the site.",
           "gallery": [
             "https://www.diigo.com/file/image/bapbeoqpzedeadrcsrzdcparrss/About+-+Planetdoc.org.jpg",
             "https://www.diigo.com/file/image/bapbeoqpzedeadroqrzdcparsba/Minha+conta+-+Planetdoc.org.jpg"
@@ -127,7 +135,7 @@
           "title": "Planeta na Escola",
           "link": "https://planetanaescola.com/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadqboszdcparrap/Planeta+na+Escola+-+Mude+o+Seu+Olhar.jpg",
-          "description": "A Wordpress Video Platform, with private access to movies and documentaries",
+          "description": "A WordPress Video Platform, with private access to movies and documentaries",
           "gallery": [
             "https://www.diigo.com/file/image/bapbeoqpzedeadqedozdcparrdp/Planeta+na+Escola+-+Mude+o+Seu+Olhar.jpg",
             "https://www.diigo.com/file/image/bapbeoqpzedeadqesczdcparrds/Planeta+na+Escola+-+Mude+o+Seu+Olhar.jpg",
@@ -139,7 +147,7 @@
           "title": "IdeaKids",
           "link": "http://ideakids.com.br/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadpeaozdcparqpp/Idea+Kids+-+Fabricando+Sonhos.jpg",
-          "description": "Wordpress Website with Google Maps, customized forms, and a restricted area for resellers",
+          "description": "WordPress Website with Google Maps, customized forms, and a restricted area for resellers",
           "gallery": [
             "https://www.diigo.com/file/image/bapbeoqpzedeadppqezdcparqqd/Idea+Kids+-+Fabricando+Sonhos.jpg",
             "https://www.diigo.com/file/image/bapbeoqpzedeadpqrezdcparqrr/Produtos+-+IdeaKids.jpg",
@@ -151,7 +159,7 @@
           "title": "Nasa Industrial",
           "link": "http://nasa.ind.br/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadordazdcparqcp/Nasa+Industrial+%7C+Importa%C3%A7%C3%A3o+e+Exporta%C3%A7%C3%A3o+de+Manufaturados+Ltda..jpg",
-          "description": "Wordpress Website with customized forms and multi-language support",
+          "description": "WordPress Website with customized forms and multi-language support",
           "gallery": [
             "https://www.diigo.com/file/image/bapbeoqpzedeadpaopzdcparqdq/Nasa+Industrial+%7C+Importa%C3%A7%C3%A3o+e+Exporta%C3%A7%C3%A3o+de+Manufaturados+Ltda..jpg",
             "https://www.diigo.com/file/image/bapbeoqpzedeadpceazdcparqea/Seja+um+Representante+%7C+Nasa+Industrial.jpg",
@@ -162,7 +170,7 @@
           "title": "Fasterm",
           "link": "https://www.fasterm.com.br/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadessdzdcparppc/Sobre+N%C3%B3s+-+Fasterm.jpg",
-          "description": "Wordpress Website with web-components and graphics library in the simulation page",
+          "description": "WordPress Website with web-components and graphics library in the simulation page",
           "gallery": [
             "https://www.diigo.com/file/image/bapbeoqpzedeadebsrzdcparpbc/Fasterm+Aquecimento+de+%C3%A1gua.jpg",
             "https://www.diigo.com/file/image/bapbeoqpzedeadeqepzdcparpea/Simulador+de+Economia-+Fasterm.jpg"
@@ -172,7 +180,7 @@
           "title": "DirectCloud Portal",
           "link": "https://directcloud.com.br/portal/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadodqrzdcparpro/Portal+%7C+Direct+Cloud.jpg",
-          "description": "Wordpress Blog",
+          "description": "WordPress Blog",
           "gallery": [
             "https://preview.ibb.co/huKm9w/Portal_Direct_Cloud.png",
             "https://www.diigo.com/file/image/bapbeoqpzedeadooeczdcparpse/Os+7+principais+mitos+relacionados+%C3%A0+estrat%C3%A9gia+multicloud.jpg"
