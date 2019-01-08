@@ -27,6 +27,30 @@
       "title": "Jobs (scroll for opensource S2)",
       "projects": [
         {
+          "title": "Sun Camiseteria",
+          "link": "https://loja.suncamisetas.com.br/",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzerspqpbcrzdqbabrdq/SUN+Camisetaria.jpg",
+          "description": "PWA shirt marketplace, built with Vue frontend and a WordPress backend (for each store)",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzerspqpbcrzdqbabrdq/SUN+Camisetaria.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzerspqppdrzdqbabrec/SUN+Camisetaria.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzerspqqddszdqbabreq/SUN+Camisetaria.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzerspqqpaozdqbabrpc/SUN+Camisetaria.jpg"
+          ]
+        },
+        {
+          "title": "Vivescer",
+          "link": "https://www.vivescer.org.br/",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzerspqdoqrzdqbabqeb/Vivescer.jpg",
+          "description": "Learning and interaction platform by teachers for teachers",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzerspqdsqazdqbabqpq/Vivescer.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzerspqebbszdqbabqps/Vivescer.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzerspqecdbzdqbabqqo/Vivescer.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzerspqobrpzdqbabras/Vivescer.jpg"
+          ]
+        },
+        {
           "title": "Mosimann-Horn",
           "link": "http://mh.adv.br",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzeqqeccpsqzdpadaaaa/Home+%7C+Mosimann-Horn.jpg",
