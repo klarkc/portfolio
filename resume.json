@@ -265,6 +265,30 @@
       "title": "Personal Projects",
       "projects": [
         {
+          "title": "vuepress-pass",
+          "link": "https://github.com/InCuca/vuepress-pass",
+          "thumbnail": "https://vuejs.org/images/logo.png",
+          "description": "Vuepress authentication plugin"
+        },
+        {
+          "title": "bdd-rocket",
+          "link": "https://github.com/klarkc/bdd-rocket",
+          "thumbnail": "https://cdn-images-1.medium.com/max/1600/0*Z8pSQ8btMSo_HtR0.png",
+          "description": "BDD excercise with jest-cucumber"
+        },
+        {
+          "title": "loopback-chai",
+          "link": "https://github.com/InCuca/loopback-chai",
+          "thumbnail": "https://www.istudiotech.in/wp-content/uploads/2017/09/loopback_logo-1.png",
+          "description": "Set of assertions for chai"
+        },
+        {
+          "title": "loopback-jest",
+          "link": "https://github.com/InCuca/loopback-jest",
+          "thumbnail": "https://www.istudiotech.in/wp-content/uploads/2017/09/loopback_logo-1.png",
+          "description": "Set of assertions for jest"
+        },
+        {
           "title": "text-mask-collection",
           "link": "https://github.com/InCuca/text-mask-collection",
           "thumbnail": "https://vuejs.org/images/logo.png",
