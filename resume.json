@@ -51,27 +51,6 @@
           ]
         },
         {
-          "title": "Mosimann-Horn",
-          "link": "http://mh.adv.br",
-          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzeqqeccpsqzdpadaaaa/Home+%7C+Mosimann-Horn.jpg",
-          "description": "Law Firm website. Produced with WordPress.",
-          "gallery": [
-            "https://www.diigo.com/file/image/bapbeoqpzeqqeccpsczdpacsssr/Home+%7C+Mosimann-Horn.jpg",
-            "https://www.diigo.com/file/image/bapbeoqpzeqqeccpqbzdpacsssp/Destaques+%7C+Mosimann-Horn.jpg",
-            "https://www.diigo.com/file/image/bapbeoqpzeqqeccpoezdpacssse/Advogados+%7C+Mosimann-Horn.jpg",
-            "https://www.diigo.com/file/image/bapbeoqpzeqqeccocqzdpacssqr/Home+%7C+Mosimann-Horn.jpg"
-          ]
-        },
-        {
-          "title": "Tabmedia Blog",
-          "link": "http://blog.tabmedia.com.br/",
-          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzesbqrpcaczdqcpesqc/Blog+-+Tabmedia.jpg",
-          "description": "SEO Blog, with WordPress.",
-          "gallery": [
-            "https://www.diigo.com/file/image/bapbeoqpzesbqrpcaczdqcpesqc/Blog+-+Tabmedia.jpg"
-          ]
-        },
-        {
           "title": "StudioK2",
           "link": "https://www.facebook.com/Studio-K2-Personal-Training-705449632883401/",
           "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzepdacsbdqzdobcecdb/Studio+K2.jpg",
@@ -140,6 +119,59 @@
           "gallery": [
             "https://www.diigo.com/file/image/bapbeoqpzedeecrpsqzdcpeocrb/Financie+seu+Projeto%7CAtla+Consultoria.jpg",
             "https://www.diigo.com/file/image/bapbeoqpzedeecrqepzdcpeocrp/Financie+seu+Projeto%7CAtla+Consultoria.jpg"
+          ]
+        },
+        {
+          "title": "Mosimann-Horn",
+          "link": "http://mh.adv.br",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzeqqeccpsqzdpadaaaa/Home+%7C+Mosimann-Horn.jpg",
+          "description": "Law Firm website. Produced with WordPress.",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzeqqeccpsczdpacsssr/Home+%7C+Mosimann-Horn.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeqqeccpqbzdpacsssp/Destaques+%7C+Mosimann-Horn.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeqqeccpoezdpacssse/Advogados+%7C+Mosimann-Horn.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzeqqeccocqzdpacssqr/Home+%7C+Mosimann-Horn.jpg"
+          ]
+        },
+        {
+          "title": "Fasterm",
+          "link": "https://www.fasterm.com.br/",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadessdzdcparppc/Sobre+N%C3%B3s+-+Fasterm.jpg",
+          "description": "WordPress Website with web-components and graphics library in the simulation page",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzedeadebsrzdcparpbc/Fasterm+Aquecimento+de+%C3%A1gua.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzedeadeqepzdcparpea/Simulador+de+Economia-+Fasterm.jpg"
+          ]
+        },
+        {
+          "title": "Tabmedia Blog",
+          "link": "http://blog.tabmedia.com.br/",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzesbqrpcaczdqcpesqc/Blog+-+Tabmedia.jpg",
+          "description": "SEO Blog, with WordPress.",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzesbqrpcaczdqcpesqc/Blog+-+Tabmedia.jpg"
+          ]
+        },
+        {
+          "title": "Fina Fácil",
+          "link": "https://www.finafacil.com/",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzespsaceqdzdqpcbecd/Fina+F%C3%A1cil+%E2%80%93+Antecipe+o+valor+de+suas+vendas+a+prazo.jpg",
+          "description": "Wordpress LP + Blog.",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzespsaceqdzdqpcbecd/Fina+F%C3%A1cil+%E2%80%93+Antecipe+o+valor+de+suas+vendas+a+prazo.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzespsacosozdqpcbedc/Voc%C3%AA+sabia+que+existem+diferentes+fluxos+de+caixa%3F+%E2%80%93+Fina+F%C3%A1cil.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzespsacoeazdqpcbecq/Fina+F%C3%A1cil+%E2%80%93+Antecipe+o+valor+de+suas+vendas+a+prazo.jpg"
+          ]
+        },
+        {
+          "title": "AnalisaBR",
+          "link": "http://analisabr.com.br/",
+          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzespsadasczdqpcbeqp/Home+-+AnalisaBR.jpg",
+          "description": "Wordpress institutional + Blog.",
+          "gallery": [
+            "https://www.diigo.com/file/image/bapbeoqpzespsadasczdqpcbeqp/Home+-+AnalisaBR.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzespsadcqczdqpcberp/Home+-+AnalisaBR.jpg",
+            "https://www.diigo.com/file/image/bapbeoqpzespsadcsczdqpcberq/O+papel+dos+dados+na+busca+pelo+Customer+Success+-+AnalisaBR.jpg"
           ]
         },
         {
@@ -220,16 +252,6 @@
             "https://www.diigo.com/file/image/bapbeoqpzedeadpaopzdcparqdq/Nasa+Industrial+%7C+Importa%C3%A7%C3%A3o+e+Exporta%C3%A7%C3%A3o+de+Manufaturados+Ltda..jpg",
             "https://www.diigo.com/file/image/bapbeoqpzedeadpceazdcparqea/Seja+um+Representante+%7C+Nasa+Industrial.jpg",
             "https://www.diigo.com/file/image/bapbeoqpzedeadpdbazdcparqor/Products+%7C+Nasa+Industrial.jpg"
-          ]
-        },
-        {
-          "title": "Fasterm",
-          "link": "https://www.fasterm.com.br/",
-          "thumbnail": "https://www.diigo.com/file/image/bapbeoqpzedeadessdzdcparppc/Sobre+N%C3%B3s+-+Fasterm.jpg",
-          "description": "WordPress Website with web-components and graphics library in the simulation page",
-          "gallery": [
-            "https://www.diigo.com/file/image/bapbeoqpzedeadebsrzdcparpbc/Fasterm+Aquecimento+de+%C3%A1gua.jpg",
-            "https://www.diigo.com/file/image/bapbeoqpzedeadeqepzdcparpea/Simulador+de+Economia-+Fasterm.jpg"
           ]
         },
         {
