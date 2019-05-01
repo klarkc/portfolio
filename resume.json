@@ -357,13 +357,13 @@
         {
           "title": "loopback-chai",
           "link": "https://github.com/InCuca/loopback-chai",
-          "thumbnail": "https://www.istudiotech.in/wp-content/uploads/2017/09/loopback_logo-1.png",
+          "thumbnail": "https://cdn-images-1.medium.com/max/1600/1*U2bi17I5e52U33SevUYpEg.png",
           "description": "Set of assertions for chai"
         },
         {
           "title": "loopback-jest",
           "link": "https://github.com/InCuca/loopback-jest",
-          "thumbnail": "https://www.istudiotech.in/wp-content/uploads/2017/09/loopback_logo-1.png",
+          "thumbnail": "https://cdn-images-1.medium.com/max/1600/1*U2bi17I5e52U33SevUYpEg.png",
           "description": "Set of assertions for jest"
         },
         {
@@ -393,7 +393,7 @@
         {
           "title": "Vue Loopback Template",
           "link": "https://github.com/InCuca/vue-loopback",
-          "thumbnail": "https://www.istudiotech.in/wp-content/uploads/2017/09/loopback_logo-1.png",
+          "thumbnail": "https://cdn-images-1.medium.com/max/1600/1*U2bi17I5e52U33SevUYpEg.png",
           "description": "A Vue project template with Loopback framework optionally with Vuex, Vue-router, and Auth boilerplaite."
         },
         {
